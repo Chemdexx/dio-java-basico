@@ -1,6 +1,6 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        // ESTUDAR TIPOS PRIMITIVOS
+        //ESTUDAR TIPOS PRIMITIVOS
         //ESTUDAR a classe String que representa texto na aplicação
 
         String meuNome = "Carlos Sekine";
@@ -14,8 +14,12 @@ public class TiposVariaveis {
         int numero = 5;
         numero = 10; 
         System.out.println(numero);
+        System.out.println(meuNome);
+        System.out.println(salarioMinimo);
+        System.out.println(numeroCurto2);
+        
 
-        final double VALOR_DE_PI = 3.14;
+        //final double VALOR_DE_PI = 3.14;
             
     }
 }
